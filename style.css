@@ -1,0 +1,59 @@
+*{
+  padding: 0;
+  margin:0;
+}
+header{
+background-color: #425944;
+height: 100px;
+}
+main{
+background-color: #F28B0C;
+}
+footer{
+background-color: #D94032;
+}
+h1{
+  color:#F28B0C;
+  text-align: center;
+}
+h1:hover{
+  color: blue;
+  text-align: center;
+}
+h2{
+  color:#D94032;
+  text-align: center;
+}
+h2:hover{
+  color: red;
+}
+
+.distinto{
+  color: #B39488;
+  background-color: #FF9689;
+  /*font-weight: bold;*/
+}
+#versionUno{
+  color: #5C5A61;
+}
+#versionDos{
+  color: #FF9688;
+}
+body{
+  font-family: 'Oswald', sans-serif;
+}
+.imagenBio{
+  width: 80%;
+}
+.imagenIntereses {
+  width: 30%;
+}
+.imagenRed{
+  width: 20%;
+}
+#h2d{
+  color:#F28B0C;
+}
+#h2d:hover{
+  color: #5C5A61;
+}
